@@ -62,6 +62,7 @@ let
         "strict-containers"
         "cardano-ledger-byron"
         "cardano-slotting"
+        "cardano-api"
       ];
     in
     {
