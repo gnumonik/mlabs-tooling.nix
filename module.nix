@@ -63,6 +63,7 @@ let
         "cardano-ledger-byron"
         "cardano-slotting"
         "cardano-api"
+        "ouroboros-network-testing"
       ];
     in
     {
