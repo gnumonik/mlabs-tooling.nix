@@ -64,6 +64,7 @@ let
         "cardano-slotting"
         "cardano-api"
         "ouroboros-network-testing"
+        "ouroboros-network"
       ];
     in
     {
