@@ -65,6 +65,7 @@ let
         "cardano-api"
         "ouroboros-network-testing"
         "ouroboros-network"
+        "ouroboros-network-lib-ouroboros-network"
       ];
     in
     {
